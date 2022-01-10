@@ -16,6 +16,14 @@ npm run serve
 ```
 npm run backend
 ```
+> Now the app is running
+
+### The home page 
+![homepage](./screen-shot/home.png)
+
+### The add-task page
+![addpage](./screen-shot/add-task.png)
+
 
 ### Compiles and minifies for production
 ```
@@ -24,6 +32,3 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-![homepage](./screen-shot/home.png)
-![addpage](./screen-shot/add-task.png)
