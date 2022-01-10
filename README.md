@@ -7,27 +7,26 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### First, run the JSON-Server backend (http://localhost:5000)
+```
+npm run backend
+```
+
+### Make sure the backend is running, compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Run the JSON-Server backend (http://localhost:5000)
-```
-npm run backend
-```
 > The image below shows the home page of this app
 > Each task can be deleted by clicking on the red X on the right of the UI
 > Double click on a task to toggle its reminder (shows a green vertical bar on the left of task)
 > Navigate to the about page 
 
-### The home page 
 ![homepage](./screen-shot/home.png)
 
 > The image below shows the add task page of this app
 > New task can be added by clicking the 'save task' button after filling the form
 
-### The add-task page
 ![addpage](./screen-shot/add-task.png)
 
 
