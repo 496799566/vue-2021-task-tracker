@@ -1,6 +1,8 @@
-# vue-crash-2021
+# Vue Task Tracker
+> Credit to Brad Traversy on youtube, you can find the source video at [here](https://www.youtube.com/watch?v=qZXt1Aom3Cs)
 
 ## Project setup
+## make sure npm is installed
 ```
 npm install
 ```
@@ -10,6 +12,11 @@ npm install
 npm run serve
 ```
 
+### Run the JSON-Server backend (http://localhost:5000)
+```
+npm run backend
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
@@ -17,3 +24,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+![homepage](./screen-shot/home.png)
+![addpage](./screen-shot/add-task.png)
