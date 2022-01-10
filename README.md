@@ -12,7 +12,7 @@ npm install
 npm run backend
 ```
 
-### Make sure the backend is running, compiles and hot-reloads for development
+### Run the Vue dev server (http://localhost:8080)
 ```
 npm run serve
 ```
